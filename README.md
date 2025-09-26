@@ -60,3 +60,4 @@
   ```bash
   py main.py
 
+Замечания и предложения: TG @chikanerik1
